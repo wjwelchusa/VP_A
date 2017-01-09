@@ -7,6 +7,11 @@
 
 # optparse not needed as command line input not used
 # import optparse     # deprecated since python 3.2; no further development
+
+
+#To do:
+# 1. refine this project to incorporate python-nmap library
+# 2. better inderstand screenLock and Semaphore
 from socket import *
 from threading import *
 
